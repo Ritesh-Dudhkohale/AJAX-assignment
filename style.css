@@ -1,0 +1,12 @@
+button {
+    border: none;
+    background-color: rgb(97, 97, 241);
+    border-radius: 10px;
+    padding: 5px 10px;
+    color: whitesmoke;
+    font-size: 1.1rem;
+}
+
+button:nth-child(2) {
+    background-color: #db5d54;
+}
